@@ -12,7 +12,7 @@ gaurav.name = "Gaurav kamble"
 gaurav.roll_no = 12
 gaurav.address = 'Bhandara'
 gaurav.cgpa = 8
-#gaurav.college = 'ram meghe'
+gaurav.college = 'ram meghe'
 
 gaurav.printInfo()
 

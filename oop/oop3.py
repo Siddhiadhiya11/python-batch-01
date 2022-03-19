@@ -2,7 +2,7 @@ class Shop:
     city = 'Nagpur'
 
     def shopInfo(self):
-        print('Shop name ',self.shop_cat)
+        print('Shop category ',self.shop_cat)
         print('Shop city ',self.city)
         print('Shop owner ',self.owner)
         print('shop offers',self.offers)
