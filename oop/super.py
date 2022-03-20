@@ -21,14 +21,14 @@ class Animals:
 	
 class Dogs(Animals):
 	def __init__(self):
-		super().__init__()
+		super(Dogs).__init__()
 
 	def isMammal(self):
-		super().isMammal()
+		super(Dogs).isMammal()
 
 class Horses(Animals):
 	def __init__(self):
-		super().__init__()
+		super(Horses).__init__()
 
 	def hasTailandLegs(self):
 		if self.tail and self.legs == 4:
