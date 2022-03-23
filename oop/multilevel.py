@@ -14,7 +14,7 @@ class Employee(Person):
 
 class Programmer(Employee):
 
-    company = "Twitter"
+    
 
     def getSalary(self):
         print('there is no salary')

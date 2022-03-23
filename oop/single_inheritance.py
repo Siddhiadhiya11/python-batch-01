@@ -14,7 +14,7 @@ class CSE(Engineering):
         print('Roll no of student is ',self.rollno)
 
     def showPassStats(self):
-        print('only 1000% passed of cse branch')
+        print('only 100% passed of cse branch')
 
 
 obj = CSE("Gaurav","17")

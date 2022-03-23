@@ -16,7 +16,7 @@ class Child2(Parent):
 # Driver's code
 object1 = Child1()
 object2 = Child2()
-object1.func1()
+#object1.func1()
 object1.func2()
-object2.func1()
+#object2.func1()
 object2.func3()
